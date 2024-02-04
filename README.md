@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">¡Hola! 👋 Soy Alejo, estudiante de la Tecnicatura Universitaria en Programación. Me enfoco en el desarrollo web Backend y Full Stack. Actualmente busco oportunidades como desarrollador Backend y Full Stack con Spring Boot y React.</p>
+<p align="left">Estudiante de la Tecnicatura Universitaria en Programación. Me enfoco en el desarrollo web Backend y Full Stack. Actualmente busco oportunidades como desarrollador Backend y Full Stack con Spring Boot y React.</p>
 
 ###
 
