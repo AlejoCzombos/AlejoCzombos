@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">¡Hola! 👋 Soy Alejo, Técnico Universitario en Programación con enfoque especializado en desarrollo backend. Poseo habilidades sólidas en trabajo colaborativo, demostrando ser proactivo y autodidacta. Activamente buscando oportunidades como desarrollador Backend, con experiencia en tecnologías como Spring Boot, Java, MySQL y MongoDB</p>
+<p align="left">¡Hola! 👋 Soy Alejo, Técnico Universitario en Programación con enfoque especializado en desarrollo backend. Poseo habilidades sólidas en trabajo colaborativo, demostrando ser proactivo y autodidacta. Actualmente me desempeño como desarrollador backend en GOAT S.A., trabajando con TypeScript, Express, PostgreSQL. Experiencia previa en Spring Boot, Java, MySQL y MongoDB. Buscando oportunidades para seguir creciendo en entornos de desarrollo backend escalables y robustos.</p>
 
 ###
 
